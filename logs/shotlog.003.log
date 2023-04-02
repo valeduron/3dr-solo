@@ -1,0 +1,240 @@
+Mar 22 16:25:13 3dr_solo local2.info shot: +-+-+-+-+-+-+ Starting up 4-DEV +-+-+-+-+-+-+
+Mar 22 16:25:13 3dr_solo local2.info shot: [RC] Disabling stick remapping
+Mar 22 16:25:13 3dr_solo local2.info shot: [app]: Ready for connections from app.
+Mar 22 16:25:13 3dr_solo local2.info shot: [button]: Creating a new thread to connect to Artoo.
+Mar 22 16:25:13 3dr_solo local2.info shot: [button]: read in button mappings
+Mar 22 16:25:13 3dr_solo local2.info shot: [button]: Button A - shot FLY, mode FLY: Manual
+Mar 22 16:25:13 3dr_solo local2.info shot: [button]: Button B - shot FLY, mode Position Hold
+Mar 22 16:25:13 3dr_solo local2.info shot: [gopro]: read enabled value from settings of 1.
+Mar 22 16:25:13 3dr_solo local2.info shot: [gopro]: sending gimbal enabled param (GMB_GP_CTRL) to 1.000000
+Mar 22 16:25:13 3dr_solo local2.info shot: [gopro]: Inited GoProManager
+Mar 22 16:25:13 3dr_solo local2.info shot: [RewindManager] Init
+Mar 22 16:25:13 3dr_solo local2.info shot: [SHOT]: Parameter FS_THR_ENABLE is 1
+Mar 22 16:25:13 3dr_solo local2.info shot: [shot]: No gimbal detected.
+Mar 22 16:25:13 3dr_solo local2.info shot: [SHOT]: Parameter BATT_CAPACITY is 0
+Mar 22 16:25:15 3dr_solo local2.info shot: [button]: Connected to Artoo.
+Mar 22 16:25:15 3dr_solo local2.info shot: [button]: sending FLY to Artoo as mode
+Mar 22 16:26:19 3dr_solo local2.info shot: [callback]: EKF status changed to 1
+Mar 22 16:26:29 3dr_solo local2.info shot: [RC] Enter failsafe
+Mar 22 16:26:42 3dr_solo local2.info shot: [RC] Exit failsafe
+Mar 22 16:27:32 3dr_solo local2.info shot: [callback]: armed status changed to 1
+Mar 22 16:27:32 3dr_solo local2.info shot: [RewindManager] reset Spline to size 20
+Mar 22 16:27:32 3dr_solo local2.info shot: [callback]: Mode changed from LOITER -> GUIDED
+Mar 22 16:27:33 3dr_solo local2.info shot: [RewindManager] loaded home 31.794430 -106.243195, alt 1233.439941
+Mar 22 16:27:33 3dr_solo local2.info shot: [app]: Can't send packet - app is not connected!
+Mar 22 16:28:31 3dr_solo local2.info shot: [callback]: Mode changed from GUIDED -> LAND
+Mar 22 16:28:31 3dr_solo local2.info shot: [button]: sending LAND to Artoo as mode
+Mar 22 16:29:01 3dr_solo local2.info shot: [button]: Received button 2 event 7
+Mar 22 16:29:01 3dr_solo local2.info shot: [callback]: Mode changed from LAND -> SMART_RTL
+Mar 22 16:29:01 3dr_solo local2.info shot: [button]: sending SMART RTL to Artoo as mode
+Mar 22 16:29:15 3dr_solo local2.info shot: [button]: Received button 4 event 2
+Mar 22 16:29:15 3dr_solo local2.info shot: [button]: Requested a mode change via Artoo button to FLY: Manual.
+Mar 22 16:29:15 3dr_solo local2.info shot: [callback]: Mode changed from SMART_RTL -> ALT_HOLD
+Mar 22 16:29:15 3dr_solo local2.info shot: [button]: sending FLY: MANUAL to Artoo as mode
+Mar 22 16:29:17 3dr_solo local2.info shot: [callback]: armed status changed to 0
+Mar 22 16:29:17 3dr_solo local2.info shot: [RewindManager] reset Spline to size 20
+Mar 22 16:29:17 3dr_solo local2.info shot: [shot]: Already in shot FLY.
+Mar 22 16:29:17 3dr_solo local2.info shot: [button]: sending FLY to Artoo as shot
+Mar 22 16:29:17 3dr_solo local2.info shot: [gopro]: GoPro is not connected, firing ArduCopter shutter instead
+Mar 22 16:29:17 3dr_solo local2.info shot: [callback]: Mode changed from ALT_HOLD -> LOITER
+Mar 22 16:29:17 3dr_solo local2.info shot: [button]: sending FLY to Artoo as mode
+Mar 22 16:31:08 3dr_solo local2.info shot: [callback]: armed status changed to 1
+Mar 22 16:31:08 3dr_solo local2.info shot: [RewindManager] reset Spline to size 20
+Mar 22 16:31:08 3dr_solo local2.info shot: [callback]: Mode changed from LOITER -> GUIDED
+Mar 22 16:31:08 3dr_solo local2.info shot: [RewindManager] loaded home 31.794430 -106.243187, alt 1233.380005
+Mar 22 16:31:08 3dr_solo local2.info shot: [app]: Can't send packet - app is not connected!
+Mar 22 16:31:19 3dr_solo local2.info shot: [callback]: Mode changed from GUIDED -> RTL
+Mar 22 16:31:19 3dr_solo local2.info shot: [button]: sending RETURN HOME to Artoo as mode
+Mar 22 16:31:34 3dr_solo local2.info shot: [button]: Received button 4 event 2
+Mar 22 16:31:34 3dr_solo local2.info shot: [button]: Requested a mode change via Artoo button to FLY: Manual.
+Mar 22 16:31:34 3dr_solo local2.info shot: [callback]: Mode changed from RTL -> ALT_HOLD
+Mar 22 16:31:34 3dr_solo local2.info shot: [button]: sending FLY: MANUAL to Artoo as mode
+Mar 22 16:31:35 3dr_solo local2.info shot: [button]: Received button 4 event 2
+Mar 22 16:31:35 3dr_solo local2.info shot: [button]: Requested a mode change via Artoo button to FLY: Manual.
+Mar 22 16:31:43 3dr_solo local2.info shot: [button]: Received button 2 event 7
+Mar 22 16:31:46 3dr_solo local2.info shot: [button]: Received button 2 event 7
+Mar 22 16:31:47 3dr_solo local2.info shot: [button]: Received button 4 event 2
+Mar 22 16:31:47 3dr_solo local2.info shot: [button]: Requested a mode change via Artoo button to FLY: Manual.
+Mar 22 16:31:47 3dr_solo local2.info shot: [button]: Received button 5 event 2
+Mar 22 16:31:47 3dr_solo local2.info shot: [button]: Requested a mode change via Artoo button to Position Hold.
+Mar 22 16:31:47 3dr_solo local2.info shot: [callback]: Mode changed from ALT_HOLD -> POSHOLD
+Mar 22 16:31:47 3dr_solo local2.info shot: [button]: sending POSITION HOLD to Artoo as mode
+Mar 22 16:31:48 3dr_solo local2.info shot: [button]: Received button 5 event 2
+Mar 22 16:31:48 3dr_solo local2.info shot: [button]: Requested a mode change via Artoo button to Position Hold.
+Mar 22 16:31:49 3dr_solo local2.info shot: [button]: Received button 4 event 2
+Mar 22 16:31:49 3dr_solo local2.info shot: [button]: Requested a mode change via Artoo button to FLY: Manual.
+Mar 22 16:31:49 3dr_solo local2.info shot: [callback]: Mode changed from POSHOLD -> ALT_HOLD
+Mar 22 16:31:49 3dr_solo local2.info shot: [button]: sending FLY: MANUAL to Artoo as mode
+Mar 22 16:31:50 3dr_solo local2.info shot: [button]: Received button 4 event 2
+Mar 22 16:31:50 3dr_solo local2.info shot: [button]: Requested a mode change via Artoo button to FLY: Manual.
+Mar 22 16:31:53 3dr_solo local2.info shot: [button]: Received button 2 event 7
+Mar 22 16:31:54 3dr_solo local2.info shot: [button]: Received button 5 event 2
+Mar 22 16:31:54 3dr_solo local2.info shot: [button]: Requested a mode change via Artoo button to Position Hold.
+Mar 22 16:31:54 3dr_solo local2.info shot: [callback]: Mode changed from ALT_HOLD -> POSHOLD
+Mar 22 16:31:54 3dr_solo local2.info shot: [button]: sending POSITION HOLD to Artoo as mode
+Mar 22 16:31:56 3dr_solo local2.info shot: [button]: Received button 2 event 7
+Mar 22 16:31:59 3dr_solo local2.info shot: [button]: Received button 2 event 7
+Mar 22 16:32:01 3dr_solo local2.info shot: [button]: Received button 4 event 7
+Mar 22 16:32:01 3dr_solo local2.info shot: [Ext Func]: Reading Button Event 4,7
+Mar 22 16:32:02 3dr_solo local2.info shot: [Ext Func]: Read -1, 0 ,-1
+Mar 22 16:32:02 3dr_solo local2.info shot: [Ext Func]: Requested a mode change via Artoo button to Stabilize.
+Mar 22 16:32:02 3dr_solo local2.info shot: [callback]: Mode changed from POSHOLD -> STABILIZE
+Mar 22 16:32:02 3dr_solo local2.info shot: [button]: sending STABILIZE to Artoo as mode
+Mar 22 16:32:05 3dr_solo local2.info shot: [button]: Received button 2 event 7
+Mar 22 16:32:08 3dr_solo local2.info shot: [button]: Received button 2 event 2
+Mar 22 16:32:08 3dr_solo local2.info shot: [Button]: Home button pressed.
+Mar 22 16:32:08 3dr_solo local2.info shot: [callback]: Mode changed from STABILIZE -> RTL
+Mar 22 16:32:08 3dr_solo local2.info shot: [button]: sending RETURN HOME to Artoo as mode
+Mar 22 16:32:10 3dr_solo local2.info shot: [button]: Received button 2 event 2
+Mar 22 16:32:10 3dr_solo local2.info shot: [Button]: Home button pressed.
+Mar 22 16:32:13 3dr_solo local2.info shot: [button]: Received button 3 event 2
+Mar 22 16:32:13 3dr_solo local2.info shot: [callback]: Mode changed from RTL -> BRAKE
+Mar 22 16:32:13 3dr_solo local2.info shot: [button]: sending BRAKE to Artoo as mode
+Mar 22 16:32:16 3dr_solo local2.info shot: [callback]: Mode changed from BRAKE -> LOITER
+Mar 22 16:32:16 3dr_solo local2.info shot: [button]: sending FLY to Artoo as mode
+Mar 22 16:32:22 3dr_solo local2.info shot: [button]: Received button 2 event 7
+Mar 22 16:32:26 3dr_solo local2.info shot: [button]: Received button 2 event 7
+Mar 22 16:32:29 3dr_solo local2.info shot: [button]: Received button 2 event 2
+Mar 22 16:32:29 3dr_solo local2.info shot: [Button]: Home button pressed.
+Mar 22 16:32:29 3dr_solo local2.info shot: [callback]: Mode changed from LOITER -> RTL
+Mar 22 16:32:29 3dr_solo local2.info shot: [button]: sending RETURN HOME to Artoo as mode
+Mar 22 16:32:32 3dr_solo local2.info shot: [button]: Received button 4 event 2
+Mar 22 16:32:32 3dr_solo local2.info shot: [button]: Requested a mode change via Artoo button to FLY: Manual.
+Mar 22 16:32:32 3dr_solo local2.info shot: [callback]: Mode changed from RTL -> ALT_HOLD
+Mar 22 16:32:32 3dr_solo local2.info shot: [button]: sending FLY: MANUAL to Artoo as mode
+Mar 22 16:32:35 3dr_solo local2.info shot: [button]: Received button 2 event 2
+Mar 22 16:32:35 3dr_solo local2.info shot: [Button]: Home button pressed.
+Mar 22 16:32:35 3dr_solo local2.info shot: [callback]: Mode changed from ALT_HOLD -> RTL
+Mar 22 16:32:35 3dr_solo local2.info shot: [button]: sending RETURN HOME to Artoo as mode
+Mar 22 16:33:29 3dr_solo local2.info shot: [callback]: Mode changed from RTL -> LAND
+Mar 22 16:33:29 3dr_solo local2.info shot: [button]: sending LAND to Artoo as mode
+Mar 22 16:33:41 3dr_solo local2.info shot: [RewindManager] reset Spline to size 20
+Mar 22 16:33:42 3dr_solo local2.info shot: [callback]: armed status changed to 0
+Mar 22 16:33:42 3dr_solo local2.info shot: [RewindManager] reset Spline to size 20
+Mar 22 16:33:42 3dr_solo local2.info shot: [shot]: Already in shot FLY.
+Mar 22 16:33:42 3dr_solo local2.info shot: [button]: sending FLY to Artoo as shot
+Mar 22 16:33:42 3dr_solo local2.info shot: [gopro]: GoPro is not connected, firing ArduCopter shutter instead
+Mar 22 16:33:42 3dr_solo local2.info shot: [callback]: Mode changed from LAND -> LOITER
+Mar 22 16:33:42 3dr_solo local2.info shot: [button]: sending FLY to Artoo as mode
+Mar 22 16:34:02 3dr_solo local2.info shot: [callback]: armed status changed to 1
+Mar 22 16:34:02 3dr_solo local2.info shot: [RewindManager] reset Spline to size 20
+Mar 22 16:34:02 3dr_solo local2.info shot: [callback]: Mode changed from LOITER -> GUIDED
+Mar 22 16:34:02 3dr_solo local2.info shot: [RewindManager] loaded home 31.794426 -106.243187, alt 1233.420044
+Mar 22 16:34:02 3dr_solo local2.info shot: [app]: Can't send packet - app is not connected!
+Mar 22 16:34:24 3dr_solo local2.info shot: [callback]: Mode changed from GUIDED -> LAND
+Mar 22 16:34:24 3dr_solo local2.info shot: [button]: sending LAND to Artoo as mode
+Mar 22 16:34:32 3dr_solo local2.info shot: [callback]: armed status changed to 0
+Mar 22 16:34:32 3dr_solo local2.info shot: [RewindManager] reset Spline to size 20
+Mar 22 16:34:32 3dr_solo local2.info shot: [shot]: Already in shot FLY.
+Mar 22 16:34:32 3dr_solo local2.info shot: [button]: sending FLY to Artoo as shot
+Mar 22 16:34:32 3dr_solo local2.info shot: [gopro]: GoPro is not connected, firing ArduCopter shutter instead
+Mar 22 16:34:32 3dr_solo local2.info shot: [callback]: Mode changed from LAND -> LOITER
+Mar 22 16:34:32 3dr_solo local2.info shot: [button]: sending FLY to Artoo as mode
+Mar 22 16:37:49 3dr_solo local2.info shot: [button]: Received button 6 event 2
+Mar 22 16:38:03 3dr_solo local2.info shot: [callback]: armed status changed to 1
+Mar 22 16:38:03 3dr_solo local2.info shot: [RewindManager] reset Spline to size 20
+Mar 22 16:38:03 3dr_solo local2.info shot: [callback]: Mode changed from LOITER -> GUIDED
+Mar 22 16:38:04 3dr_solo local2.info shot: [RewindManager] loaded home 31.794436 -106.243179, alt 1233.430054
+Mar 22 16:38:04 3dr_solo local2.info shot: [app]: Can't send packet - app is not connected!
+Mar 22 16:38:23 3dr_solo local2.info shot: [callback]: Mode changed from GUIDED -> LAND
+Mar 22 16:38:23 3dr_solo local2.info shot: [button]: sending LAND to Artoo as mode
+Mar 22 16:38:27 3dr_solo local2.info shot: [RewindManager] reset Spline to size 20
+Mar 22 16:38:28 3dr_solo local2.info shot: [callback]: armed status changed to 0
+Mar 22 16:38:28 3dr_solo local2.info shot: [RewindManager] reset Spline to size 20
+Mar 22 16:38:28 3dr_solo local2.info shot: [shot]: Already in shot FLY.
+Mar 22 16:38:28 3dr_solo local2.info shot: [button]: sending FLY to Artoo as shot
+Mar 22 16:38:28 3dr_solo local2.info shot: [gopro]: GoPro is not connected, firing ArduCopter shutter instead
+Mar 22 16:38:28 3dr_solo local2.info shot: [callback]: Mode changed from LAND -> LOITER
+Mar 22 16:38:28 3dr_solo local2.info shot: [button]: sending FLY to Artoo as mode
+Mar 22 16:39:19 3dr_solo local2.info shot: [callback]: Mode changed from LOITER -> RTL
+Mar 22 16:39:19 3dr_solo local2.info shot: [button]: sending RETURN HOME to Artoo as mode
+Mar 22 16:40:38 3dr_solo local2.info shot: [callback]: armed status changed to 1
+Mar 22 16:40:38 3dr_solo local2.info shot: [RewindManager] reset Spline to size 20
+Mar 22 16:40:38 3dr_solo local2.info shot: [callback]: Mode changed from RTL -> GUIDED
+Mar 22 16:40:38 3dr_solo local2.info shot: [RewindManager] loaded home 31.794432 -106.243195, alt 1233.530029
+Mar 22 16:40:38 3dr_solo local2.info shot: [app]: Can't send packet - app is not connected!
+Mar 22 16:41:44 3dr_solo local2.info shot: [callback]: Mode changed from GUIDED -> RTL
+Mar 22 16:41:44 3dr_solo local2.info shot: [button]: sending RETURN HOME to Artoo as mode
+Mar 22 16:41:45 3dr_solo local2.info shot: [callback]: Mode changed from RTL -> LAND
+Mar 22 16:41:45 3dr_solo local2.info shot: [button]: sending LAND to Artoo as mode
+Mar 22 16:41:58 3dr_solo local2.info shot: [callback]: armed status changed to 0
+Mar 22 16:41:58 3dr_solo local2.info shot: [RewindManager] reset Spline to size 20
+Mar 22 16:41:58 3dr_solo local2.info shot: [shot]: Already in shot FLY.
+Mar 22 16:41:58 3dr_solo local2.info shot: [button]: sending FLY to Artoo as shot
+Mar 22 16:41:58 3dr_solo local2.info shot: [gopro]: GoPro is not connected, firing ArduCopter shutter instead
+Mar 22 16:41:58 3dr_solo local2.info shot: [callback]: Mode changed from LAND -> LOITER
+Mar 22 16:41:58 3dr_solo local2.info shot: [button]: sending FLY to Artoo as mode
+Mar 22 16:43:31 3dr_solo local2.info shot: [callback]: armed status changed to 1
+Mar 22 16:43:31 3dr_solo local2.info shot: [RewindManager] reset Spline to size 20
+Mar 22 16:43:31 3dr_solo local2.info shot: [callback]: Mode changed from LOITER -> GUIDED
+Mar 22 16:43:32 3dr_solo local2.info shot: [RewindManager] loaded home 31.794420 -106.243179, alt 1233.780029
+Mar 22 16:43:32 3dr_solo local2.info shot: [app]: Can't send packet - app is not connected!
+Mar 22 16:44:46 3dr_solo local2.info shot: [callback]: Mode changed from GUIDED -> LAND
+Mar 22 16:44:46 3dr_solo local2.info shot: [button]: sending LAND to Artoo as mode
+Mar 22 16:44:50 3dr_solo local2.info shot: [callback]: armed status changed to 0
+Mar 22 16:44:50 3dr_solo local2.info shot: [RewindManager] reset Spline to size 20
+Mar 22 16:44:50 3dr_solo local2.info shot: [shot]: Already in shot FLY.
+Mar 22 16:44:50 3dr_solo local2.info shot: [button]: sending FLY to Artoo as shot
+Mar 22 16:44:50 3dr_solo local2.info shot: [gopro]: GoPro is not connected, firing ArduCopter shutter instead
+Mar 22 16:44:50 3dr_solo local2.info shot: [callback]: Mode changed from LAND -> LOITER
+Mar 22 16:44:50 3dr_solo local2.info shot: [button]: sending FLY to Artoo as mode
+Mar 22 17:17:54 3dr_solo local2.info shot: [callback]: armed status changed to 1
+Mar 22 17:17:54 3dr_solo local2.info shot: [RewindManager] reset Spline to size 20
+Mar 22 17:17:54 3dr_solo local2.info shot: [callback]: Mode changed from LOITER -> GUIDED
+Mar 22 17:17:54 3dr_solo local2.info shot: [RewindManager] loaded home 31.794388 -106.243202, alt 1235.660034
+Mar 22 17:17:54 3dr_solo local2.info shot: [app]: Can't send packet - app is not connected!
+Mar 22 17:18:05 3dr_solo local2.info shot: [callback]: armed status changed to 0
+Mar 22 17:18:05 3dr_solo local2.info shot: [RewindManager] reset Spline to size 20
+Mar 22 17:18:05 3dr_solo local2.info shot: [shot]: Already in shot FLY.
+Mar 22 17:18:05 3dr_solo local2.info shot: [button]: sending FLY to Artoo as shot
+Mar 22 17:18:05 3dr_solo local2.info shot: [gopro]: GoPro is not connected, firing ArduCopter shutter instead
+Mar 22 17:18:05 3dr_solo local2.info shot: [callback]: Mode changed from GUIDED -> LOITER
+Mar 22 17:18:05 3dr_solo local2.info shot: [button]: sending FLY to Artoo as mode
+Mar 22 17:24:44 3dr_solo local2.info shot: [callback]: armed status changed to 1
+Mar 22 17:24:44 3dr_solo local2.info shot: [RewindManager] reset Spline to size 20
+Mar 22 17:24:44 3dr_solo local2.info shot: [callback]: Mode changed from LOITER -> GUIDED
+Mar 22 17:24:44 3dr_solo local2.info shot: [RewindManager] loaded home 31.794411 -106.243217, alt 1236.060059
+Mar 22 17:24:44 3dr_solo local2.info shot: [app]: Can't send packet - app is not connected!
+Mar 22 17:24:55 3dr_solo local2.info shot: [callback]: armed status changed to 0
+Mar 22 17:24:55 3dr_solo local2.info shot: [RewindManager] reset Spline to size 20
+Mar 22 17:24:55 3dr_solo local2.info shot: [shot]: Already in shot FLY.
+Mar 22 17:24:55 3dr_solo local2.info shot: [button]: sending FLY to Artoo as shot
+Mar 22 17:24:55 3dr_solo local2.info shot: [gopro]: GoPro is not connected, firing ArduCopter shutter instead
+Mar 22 17:24:55 3dr_solo local2.info shot: [callback]: Mode changed from GUIDED -> LOITER
+Mar 22 17:24:55 3dr_solo local2.info shot: [button]: sending FLY to Artoo as mode
+Mar 22 17:28:13 3dr_solo local2.info shot: [callback]: armed status changed to 1
+Mar 22 17:28:13 3dr_solo local2.info shot: [RewindManager] reset Spline to size 20
+Mar 22 17:28:13 3dr_solo local2.info shot: [callback]: Mode changed from LOITER -> GUIDED
+Mar 22 17:28:14 3dr_solo local2.info shot: [RewindManager] loaded home 31.794439 -106.243233, alt 1237.040039
+Mar 22 17:28:14 3dr_solo local2.info shot: [app]: Can't send packet - app is not connected!
+Mar 22 17:28:24 3dr_solo local2.info shot: [callback]: armed status changed to 0
+Mar 22 17:28:24 3dr_solo local2.info shot: [RewindManager] reset Spline to size 20
+Mar 22 17:28:24 3dr_solo local2.info shot: [shot]: Already in shot FLY.
+Mar 22 17:28:24 3dr_solo local2.info shot: [button]: sending FLY to Artoo as shot
+Mar 22 17:28:24 3dr_solo local2.info shot: [gopro]: GoPro is not connected, firing ArduCopter shutter instead
+Mar 22 17:28:24 3dr_solo local2.info shot: [callback]: Mode changed from GUIDED -> LOITER
+Mar 22 17:28:24 3dr_solo local2.info shot: [button]: sending FLY to Artoo as mode
+Mar 22 17:33:54 3dr_solo local2.info shot: [callback]: armed status changed to 1
+Mar 22 17:33:54 3dr_solo local2.info shot: [RewindManager] reset Spline to size 20
+Mar 22 17:33:54 3dr_solo local2.info shot: [callback]: Mode changed from LOITER -> GUIDED
+Mar 22 17:33:55 3dr_solo local2.info shot: [RewindManager] loaded home 31.794430 -106.243233, alt 1236.719971
+Mar 22 17:33:55 3dr_solo local2.info shot: [app]: Can't send packet - app is not connected!
+Mar 22 17:34:05 3dr_solo local2.info shot: [callback]: armed status changed to 0
+Mar 22 17:34:05 3dr_solo local2.info shot: [RewindManager] reset Spline to size 20
+Mar 22 17:34:05 3dr_solo local2.info shot: [shot]: Already in shot FLY.
+Mar 22 17:34:05 3dr_solo local2.info shot: [button]: sending FLY to Artoo as shot
+Mar 22 17:34:05 3dr_solo local2.info shot: [gopro]: GoPro is not connected, firing ArduCopter shutter instead
+Mar 22 17:34:05 3dr_solo local2.info shot: [callback]: Mode changed from GUIDED -> LOITER
+Mar 22 17:34:05 3dr_solo local2.info shot: [button]: sending FLY to Artoo as mode
+Mar 22 17:34:57 3dr_solo local2.info shot: [callback]: armed status changed to 1
+Mar 22 17:34:57 3dr_solo local2.info shot: [RewindManager] reset Spline to size 20
+Mar 22 17:34:57 3dr_solo local2.info shot: [callback]: Mode changed from LOITER -> GUIDED
+Mar 22 17:34:58 3dr_solo local2.info shot: [RewindManager] loaded home 31.794413 -106.243225, alt 1236.410034
+Mar 22 17:34:58 3dr_solo local2.info shot: [app]: Can't send packet - app is not connected!
+Mar 22 17:35:08 3dr_solo local2.info shot: [callback]: armed status changed to 0
+Mar 22 17:35:08 3dr_solo local2.info shot: [RewindManager] reset Spline to size 20
+Mar 22 17:35:08 3dr_solo local2.info shot: [shot]: Already in shot FLY.
+Mar 22 17:35:08 3dr_solo local2.info shot: [button]: sending FLY to Artoo as shot
+Mar 22 17:35:08 3dr_solo local2.info shot: [gopro]: GoPro is not connected, firing ArduCopter shutter instead
+Mar 22 17:35:08 3dr_solo local2.info shot: [callback]: Mode changed from GUIDED -> LOITER
+Mar 22 17:35:08 3dr_solo local2.info shot: [button]: sending FLY to Artoo as mode

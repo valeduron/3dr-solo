@@ -1,0 +1,19 @@
+Mar 30 03:58:13 3dr_solo local2.info shot: +-+-+-+-+-+-+ Starting up 4-DEV +-+-+-+-+-+-+
+Mar 30 03:58:13 3dr_solo local2.info shot: [RC] Disabling stick remapping
+Mar 30 03:58:13 3dr_solo local2.info shot: [app]: Ready for connections from app.
+Mar 30 03:58:13 3dr_solo local2.info shot: [button]: Creating a new thread to connect to Artoo.
+Mar 30 03:58:13 3dr_solo local2.info shot: [button]: read in button mappings
+Mar 30 03:58:13 3dr_solo local2.info shot: [button]: Button A - shot FLY, mode FLY: Manual
+Mar 30 03:58:13 3dr_solo local2.info shot: [button]: Button B - shot FLY, mode Position Hold
+Mar 30 03:58:13 3dr_solo local2.info shot: [gopro]: read enabled value from settings of 1.
+Mar 30 03:58:13 3dr_solo local2.info shot: [gopro]: sending gimbal enabled param (GMB_GP_CTRL) to 1.000000
+Mar 30 03:58:13 3dr_solo local2.info shot: [gopro]: Inited GoProManager
+Mar 30 03:58:13 3dr_solo local2.info shot: [RewindManager] Init
+Mar 30 03:58:13 3dr_solo local2.info shot: [SHOT]: Parameter FS_THR_ENABLE is 1
+Mar 30 03:58:13 3dr_solo local2.info shot: [shot]: No gimbal detected.
+Mar 30 03:58:13 3dr_solo local2.info shot: [SHOT]: Parameter BATT_CAPACITY is 0
+Mar 30 03:58:15 3dr_solo local2.info shot: [button]: Connected to Artoo.
+Mar 30 03:58:15 3dr_solo local2.info shot: [button]: sending FLY to Artoo as mode
+Mar 31 03:34:30 3dr_solo local2.info shot: [RC] Enter failsafe
+Mar 31 03:34:51 3dr_solo local2.info shot: [RC] Exit failsafe
+Mar 31 03:37:10 3dr_solo local2.info shot: [callback]: EKF status changed to 1

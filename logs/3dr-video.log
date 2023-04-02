@@ -1,0 +1,15 @@
+Mar 30 03:58:10 3dr_solo local6.info video: main: built Jan 26 2020 18:39:58
+Mar 30 03:58:10 3dr_solo local6.info video: Operating in variable bitrate mode (800000-1800000)@24fps
+Mar 30 03:58:10 3dr_solo local6.info video: Using variable streaming resolution
+Mar 30 03:58:10 3dr_solo local6.info video: Initializing
+Mar 30 03:58:11 3dr_solo local6.info video: Creating pipeline
+Mar 30 03:58:11 3dr_solo local6.info video: Starting play
+Mar 30 03:58:11 3dr_solo local6.info video: new size: 640x480
+Mar 30 03:58:11 3dr_solo local6.info video: Restarting pipeline
+Mar 30 03:58:11 3dr_solo local6.info video: Last timestamp: 0
+Mar 31 03:34:31 3dr_solo local6.info video: New bitrate: 1700000bps
+Mar 31 03:34:31 3dr_solo local6.info video: Last timestamp: 50704827
+Mar 31 03:34:32 3dr_solo local6.info video: New bitrate: 1600000bps
+Mar 31 03:34:32 3dr_solo local6.info video: Last timestamp: 50721248
+Mar 31 03:34:35 3dr_solo local6.info video: New bitrate: 1800000bps
+Mar 31 03:34:35 3dr_solo local6.info video: Last timestamp: 50992649

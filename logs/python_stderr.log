@@ -1,0 +1,94 @@
+Thu Mar 30 03:58:10 UTC 2023
+>>> ArduCopter V4.0.1 (61f191de)
+>>> ChibiOS: cb42c858
+>>> CubeSolo 002F001A 31355103 30323839
+>>> Frame: QUAD
+>>> PreArm: Compasses inconsistent
+>>> PreArm: Waiting for 3D fix
+>>> PreArm: Compasses inconsistent
+>>> PreArm: Waiting for 3D fix
+>>> PreArm: Compasses inconsistent
+>>> PreArm: Waiting for 3D fix
+>>> PreArm: Compasses inconsistent
+>>> PreArm: Waiting for 3D fix
+>>> PreArm: Compasses inconsistent
+>>> PreArm: Waiting for 3D fix
+>>> PreArm: Compasses inconsistent
+>>> PreArm: Waiting for 3D fix
+>>> PreArm: Compasses inconsistent
+>>> PreArm: Waiting for 3D fix
+>>> PreArm: Compasses inconsistent
+>>> PreArm: GPS numsats 4 (needs 6)
+>>> PreArm: Compasses inconsistent
+>>> PreArm: Waiting for 3D fix
+>>> PreArm: Compasses inconsistent
+>>> PreArm: GPS numsats 4 (needs 6)
+>>> PreArm: Compasses inconsistent
+>>> PreArm: Waiting for 3D fix
+>>> PreArm: Compasses inconsistent
+>>> PreArm: GPS numsats 4 (needs 6)
+>>> PreArm: Compasses inconsistent
+>>> PreArm: GPS numsats 5 (needs 6)
+>>> PreArm: Compasses inconsistent
+>>> PreArm: GPS numsats 5 (needs 6)
+>>> PreArm: Compasses inconsistent
+>>> PreArm: GPS numsats 5 (needs 6)
+>>> PreArm: Compasses inconsistent
+>>> PreArm: GPS vert error 12.2m (needs < 7.5)
+>>> PreArm: Compasses inconsistent
+>>> PreArm: GPS numsats 5 (needs 6)
+>>> PreArm: Compasses inconsistent
+>>> PreArm: Waiting for 3D fix
+>>> Radio Failsafe - Disarming
+>>> PreArm: Throttle below Failsafe
+>>> PreArm: Compasses inconsistent
+>>> PreArm: GPS speed error 1.5 (needs < 1.0)
+>>> PreArm: Radio failsafe on
+>>> Radio Failsafe Cleared
+>>> PreArm: Compasses inconsistent
+>>> PreArm: GPS speed error 1.6 (needs < 1.0)
+>>> PreArm: Compasses inconsistent
+>>> PreArm: GPS numsats 4 (needs 6)
+>>> PreArm: Compasses inconsistent
+>>> PreArm: GPS vert error 20.5m (needs < 7.5)
+>>> PreArm: Compasses inconsistent
+>>> PreArm: GPS vert error 13.6m (needs < 7.5)
+>>> PreArm: Compasses inconsistent
+>>> PreArm: GPS vert error 7.5m (needs < 7.5)
+>>> EKF3 IMU0 origin set
+>>> EKF3 IMU1 origin set
+>>> EKF3 IMU0 is using GPS
+>>> EKF3 IMU1 is using GPS
+>>> PreArm: Compasses inconsistent
+>>> PreArm: Compasses inconsistent
+>>> PreArm: Compasses inconsistent
+>>> PreArm: Compasses inconsistent
+>>> PreArm: High GPS HDOP
+>>> PreArm: Compasses inconsistent
+>>> PreArm: Compasses inconsistent
+>>> PreArm: Compasses inconsistent
+>>> PreArm: Compasses inconsistent
+>>> GPS Glitch
+>>> GPS Glitch cleared
+>>> PreArm: Gyros inconsistent
+>>> PreArm: Compasses inconsistent
+>>> PreArm: Gyros inconsistent
+>>> PreArm: Compasses inconsistent
+>>> PreArm: Gyros inconsistent
+>>> PreArm: Compasses inconsistent
+>>> PreArm: Gyros inconsistent
+>>> PreArm: Compasses inconsistent
+>>> PreArm: Gyros inconsistent
+>>> PreArm: Compasses inconsistent
+>>> PreArm: Gyros inconsistent
+>>> PreArm: Compasses inconsistent
+>>> PreArm: Gyros inconsistent
+>>> PreArm: Compasses inconsistent
+>>> PreArm: Gyros inconsistent
+>>> PreArm: Compasses inconsistent
+>>> PreArm: Gyros inconsistent
+>>> PreArm: Compasses inconsistent
+>>> PreArm: Gyros inconsistent
+>>> PreArm: Compasses inconsistent
+>>> PreArm: Gyros inconsistent
+>>> PreArm: Compasses inconsistent

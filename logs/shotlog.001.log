@@ -1,0 +1,27 @@
+Mar 22 17:42:33 3dr_solo local2.info shot: +-+-+-+-+-+-+ Starting up 4-DEV +-+-+-+-+-+-+
+Mar 22 17:42:33 3dr_solo local2.info shot: [RC] Disabling stick remapping
+Mar 22 17:42:33 3dr_solo local2.info shot: [app]: Ready for connections from app.
+Mar 22 17:42:33 3dr_solo local2.info shot: [button]: Creating a new thread to connect to Artoo.
+Mar 22 17:42:33 3dr_solo local2.info shot: [button]: read in button mappings
+Mar 22 17:42:33 3dr_solo local2.info shot: [button]: Button A - shot FLY, mode FLY: Manual
+Mar 22 17:42:33 3dr_solo local2.info shot: [button]: Button B - shot FLY, mode Position Hold
+Mar 22 17:42:33 3dr_solo local2.info shot: [gopro]: read enabled value from settings of 1.
+Mar 22 17:42:33 3dr_solo local2.info shot: [gopro]: sending gimbal enabled param (GMB_GP_CTRL) to 1.000000
+Mar 22 17:42:33 3dr_solo local2.info shot: [gopro]: Inited GoProManager
+Mar 22 17:42:33 3dr_solo local2.info shot: [RewindManager] Init
+Mar 22 17:42:33 3dr_solo local2.info shot: [SHOT]: Parameter FS_THR_ENABLE is 1
+Mar 22 17:42:33 3dr_solo local2.info shot: [shot]: No gimbal detected.
+Mar 22 17:42:33 3dr_solo local2.info shot: [SHOT]: Parameter BATT_CAPACITY is 0
+Mar 22 17:42:35 3dr_solo local2.info shot: [button]: Connected to Artoo.
+Mar 22 17:42:35 3dr_solo local2.info shot: [button]: sending FLY to Artoo as mode
+Mar 30 02:35:05 3dr_solo local2.info shot: [callback]: EKF status changed to 1
+Mar 30 02:43:58 3dr_solo local2.info shot: [RC] Enter failsafe
+Mar 30 02:44:32 3dr_solo local2.info shot: [RC] Exit failsafe
+Mar 30 02:45:29 3dr_solo local2.info shot: [RC] Enter failsafe
+Mar 30 02:45:57 3dr_solo local2.info shot: [RC] Exit failsafe
+Mar 30 02:46:08 3dr_solo local2.info shot: [RC] Enter failsafe
+Mar 30 02:46:21 3dr_solo local2.info shot: [RC] Exit failsafe
+Mar 30 02:52:59 3dr_solo local2.info shot: [callback]: EKF status changed to 0
+Mar 30 02:52:59 3dr_solo local2.info shot: [callback]: EKF status changed to 1
+Mar 30 02:53:12 3dr_solo local2.info shot: [callback]: EKF status changed to 0
+Mar 30 02:54:58 3dr_solo local2.info shot: [callback]: EKF status changed to 1
